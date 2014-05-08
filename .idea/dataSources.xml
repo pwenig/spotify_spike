@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="4086164471">
+    <data-source source="LOCAL" name="Rails spotify-spike: development" uuid="0e1a348e-4a06-416b-8017-c1da0a1899f3">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:spotify-spike_development</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails spotify-spike: test" uuid="e519f9de-6a93-4172-b15c-562dd98f9c4a">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:spotify-spike_test</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails spotify-spike: production" uuid="388604cc-62ba-42b4-8b01-296c75168b9b">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:spotify-spike_production</jdbc-url>
+      <user-name>spotify-spike</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddff9dffadfe5dffedfe3dfecdff3df87dff9dffadfe3dfe1dfefdff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+

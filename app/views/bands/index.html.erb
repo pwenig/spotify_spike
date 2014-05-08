@@ -1,0 +1,14 @@
+<h1>Find your favorite bands</h1>
+<form action="/" method="post">
+  <input type="text" name="search_term" placeholder='Enter Band or Artist Name'>
+  <input type="submit" value="Submit">
+  </form>
+
+<ul>
+<% if @json_data %>
+  <% @json_data["tracks"].select do |tracks| %>
+    <li><%= tracks["name"] %></li>
+  <% end %>
+<% end %>
+</ul>
+

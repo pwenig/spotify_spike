@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails spotify-spike: development" uuid="0e1a348e-4a06-416b-8017-c1da0a1899f3">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails spotify-spike: test" uuid="e519f9de-6a93-4172-b15c-562dd98f9c4a">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails spotify-spike: production" uuid="388604cc-62ba-42b4-8b01-296c75168b9b">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
